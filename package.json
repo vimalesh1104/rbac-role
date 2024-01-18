@@ -1,6 +1,6 @@
 {
   "name": "@pics-core/rbac-roles",
-  "version": "1.0.3-OR.8",
+  "version": "1.0.3-OR.11",
   "description": "This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.",
   "directories": {
     "lib": "lib"
